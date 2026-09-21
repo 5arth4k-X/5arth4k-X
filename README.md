@@ -53,70 +53,6 @@ Security Research:
   - Vulnerability Assessment
 ```
 
----
-
-## -> Projects
-
-### • [RedVect0r](https://github.com/5arth4k-x/redvect0r)
-
-**Attack Surface Discovery & Security Assessment**
-
-A modular reconnaissance and assessment tool for discovering and analyzing external attack surfaces.
-
-* Subdomain and DNS enumeration
-* Subdomain takeover detection
-* Port and service discovery
-* HTTP reachability and endpoint discovery
-* Technology and WAF detection
-* Security header, CORS, TLS and open-redirect checks
-* Per-subdomain risk scoring
-* JSON / TXT reporting
-* Optional browser-based screenshots
-
-`Python` `Nmap` `Subfinder` `WhatWeb` `Playwright`
-
----
-
-### • [Bl4ckHawk](https://github.com/5arth4k-x/Bl4ckHawk)
-
-**Cyber Threat Intelligence & IOC Analysis Platform**
-
-A self-hosted platform for enriching, correlating, and analyzing indicators from multiple threat-intelligence sources.
-
-* Multi-source IOC enrichment
-* Threat scoring and correlation
-* STIX / TAXII feed support
-* NVD and CISA KEV integration
-* MITRE ATT&CK mapping
-* Background enrichment jobs
-* Response caching
-* Analyst dashboard and PDF reporting
-
-`FastAPI` `React` `PostgreSQL` `Redis` `Celery`
-
----
-
-### • [MalwareScope](https://github.com/5arth4k-X/MalwareScope)
-
-**Static Malware Analysis, Behavioral Inference & Threat Intelligence**
-
-An analysis framework for examining suspicious files through static analysis, evidence correlation, behavioral inference, and risk assessment.
-
-* PE metadata and entropy analysis
-* Hash and string extraction
-* IOC extraction
-* YARA scanning
-* Threat-intelligence lookups
-* Evidence correlation
-* Behavioral inference
-* MITRE ATT&CK association
-* Deterministic risk assessment
-* Analysis history and reporting
-
-`Python` `FastAPI` `React` `PostgreSQL` `YARA`
-
----
-
 ## ⁛ Areas of Interest
 
 ```text
@@ -134,44 +70,6 @@ Cybersecurity
 
 ---
 
-## ⁛ Security Toolkit
-
-```text
-Recon
- ├── Nmap
- ├── Subfinder
- ├── HTTPX
- |── DNS / OSINT tooling
- └── etc.
-
-Web Security
- ├── Burp Suite
- ├── HTTP analysis
- ├── Security headers
- |── Web reconnaissance
- └── etc.
-
-Network
- ├── Wireshark
- ├── Network enumeration
- |── Protocol analysis
- └── etc.
-
-Offensive Security
- ├── Metasploit
- ├── Linux
- ├── Active Directory concepts
- |── VAPT methodologies
- └── etc.
-
-Threat Intelligence
- ├── IOC Analysis
- ├── MITRE ATT&CK
- ├── Malware Analysis
- |── CTI correlation
- └── etc.
-```
----
 ## ⁛ Tech Stack
 
 ### Programming
