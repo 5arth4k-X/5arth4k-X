@@ -228,14 +228,6 @@ Threat Intelligence
 * 🛰️ ISRO Certified
 * 💻 IBM Certified
 
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5arth4k-X&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5arth4k-X&layout=compact&hide_border=true&theme=transparent" height="160"/>
-</p>
 
 ---
 <div align="center">
@@ -244,6 +236,7 @@ Threat Intelligence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarthak-saha-325-ss)
 
 </div>
+
 <div align="center">
 
 **Learning · Building · Breaking · Understanding**
